@@ -1,4 +1,4 @@
-# Distributed Angular in Docker
+# Distributed Angular app with Docker
 
 ```bash
 docker build -t my-angular:prod . \
